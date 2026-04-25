@@ -41,7 +41,6 @@ Association rule mining is not the main technique used in this project because t
 ## 7) Unique Thing About the Project
 
 * Real-world banking use case
-* Easy to explain in viva
 * Strong preprocessing and model comparison
 * Can be extended with feature importance analysis
 
