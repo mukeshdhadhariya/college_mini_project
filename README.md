@@ -53,19 +53,6 @@ Association rule mining is not the main technique used in this project because t
 * Scaling was applied to numerical features
 * The project helps banks improve campaign targeting and reduce cost
 
-## 9) Good Viva Questions
-
-1. Why is this a supervised learning problem?
-2. Why did you choose Random Forest?
-3. What is the difference between precision and recall?
-4. Why is One-Hot Encoding needed?
-5. Why did you use a pipeline?
-6. What is overfitting?
-7. What is ROC-AUC?
-8. How does this project help banks in real life?
-9. Why is train-test split important?
-10. How can you improve the model further?
-
 ## Project Code Link
 
 [https://colab.research.google.com/drive/1eb4ASFhl3bma3xP0luW9_6Unff-1G-xc?usp=sharing](https://colab.research.google.com/drive/1eb4ASFhl3bma3xP0luW9_6Unff-1G-xc?usp=sharing)
