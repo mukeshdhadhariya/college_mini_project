@@ -67,19 +67,6 @@ Association rule mining is not applicable to this project because reinforcement 
 * Discounted returns help value future rewards
 * The project shows how an agent improves by trial and error
 
-## 9) Good Viva Questions
-
-1. What is reinforcement learning?
-2. What is the state in CartPole?
-3. What are the actions available to the agent?
-4. Why is this not supervised learning?
-5. Why is Softmax used?
-6. What does the reward mean?
-7. What is the role of the perceptron here?
-8. Why do we compute discounted returns?
-9. How does the policy improve over time?
-10. What is the difference between exploration and exploitation?
-
 ## Project Code Link
 
 [https://colab.research.google.com/drive/1T6tPZMXHRE3TVPeoHtZeB6AR19EePJeQ?usp=sharing](https://colab.research.google.com/drive/1T6tPZMXHRE3TVPeoHtZeB6AR19EePJeQ?usp=sharing)
